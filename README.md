@@ -5,9 +5,10 @@ TO DO FEB 27th:
 Finish the article section of index.html.
 Update the text and photos in the "slideshow" section at the top of home page
 
-2. Jenny & Cindy
+2. Jenny & Cindy & Shawn
 Fix last FAQ to have same left alignment.
 Can you orgaanize the FAQs at all? By topic? And maybe use headers to section them off.
+@ Shawn: since we don't have much design work right now, why don't you help Jenny and Cindy make some decisions about the FAQ page formatting
 
 3. ENTIRE TEAM
 If you've both finished what you worked on (or even just one team has), try to tackle contact.html
