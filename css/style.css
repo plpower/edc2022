@@ -9330,12 +9330,12 @@ textarea.form-control {
   .ftco-counter .text strong.number {
     font-weight: 400;
     font-size: 50px;
-    color: #FEA16B;
+    color: rgb(253, 253, 253);
     font-family: "EB Garamond", serif; }
   .ftco-counter .text span {
     font-weight: 400;
     font-size: 18px;
-    color: #FEA16B;
+    color: rgb(255, 255, 255);
     font-family: "EB Garamond", serif; }
   .ftco-counter .text:hover .icon span, .ftco-counter .text:focus .icon span {
     color: #000; }
@@ -9472,23 +9472,23 @@ textarea.form-control {
   height: 58px !important;
   padding: 20px;
   background: transparent !important;
-  color: rgba(0, 0, 0, 0.9) !important;
+  color: rgba(50, 50, 50, 0.9) !important;
   font-size: 13px;
   border-radius: 0px;
   -webkit-box-shadow: none !important;
   box-shadow: none !important; }
   .contact-form .form-control::-webkit-input-placeholder {
     /* Chrome/Opera/Safari */
-    color: rgba(0, 0, 0, 0.9); }
+    color: rgba(50, 50, 50, 0.9); }
   .contact-form .form-control::-moz-placeholder {
     /* Firefox 19+ */
-    color: rgba(0, 0, 0, 0.9); }
+    color: rgba(50, 50, 50, 0.9); }
   .contact-form .form-control:-ms-input-placeholder {
     /* IE 10+ */
-    color: rgba(0, 0, 0, 0.9); }
+    color: rgba(50, 50, 50, 0.9); }
   .contact-form .form-control:-moz-placeholder {
     /* Firefox 18- */
-    color: rgba(0, 0, 0, 0.9); }
+    color: rgba(50, 50, 50, 0.9); }
   .contact-form .form-control:focus, .contact-form .form-control:active {
     border-color: #FEA16B !important; }
 
