@@ -1,0 +1,35 @@
+#us-map{
+  display: block;
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+path:hover, circle:hover {
+  stroke: #292929 !important;
+  stroke-width:3px;
+  stroke-linejoin: round;
+  background-color: rbga(0, 0, 0, 0.1);
+}
+#path67 {
+  fill: none !important;
+  stroke: #292929 !important;
+  cursor: default;
+}
+#info-box {
+  display: none;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  z-index: 1;
+  background-color: #ffffff;
+  border: 1px solid #292929;
+  border-radius: 5px;
+  padding: 5px;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 14px
+}
+p {
+  position: relative;
+}
