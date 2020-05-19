@@ -6,11 +6,10 @@
   width: 100%;
   height: 100%;
 }
-path:hover, circle:hover {
+path:hover, circle:hover, polygon:hover {
   stroke: #292929 !important;
   stroke-width:3px;
   stroke-linejoin: round;
-  background-color: rbga(0, 0, 0, 0.1);
 }
 #path67 {
   fill: none !important;
