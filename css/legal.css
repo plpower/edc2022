@@ -28,13 +28,10 @@ iframe{
 }
 
 .icon-background{
-  /* display: inline-flex;*/
   background: #fea16b;
   border-radius: 50%;
   width: 60px;
   height: 60px;
-  /* align-items: center;
-  justify-content: center; */
   margin: 0 auto;
   position: relative;
 
@@ -48,8 +45,7 @@ iframe{
   top: 50%;
   left: 50%;
   margin-right: -50%;
-  transform: translate(-50%, -50%)
-
+  transform: translate(-50%, -50%);
 
 }
 
