@@ -8,24 +8,9 @@
   margin-bottom: 30px;
 }
 
-.three-category{
-  border: 1px  solid;
-  text-align: center;
-}
 
-.three-category .red-col{
-  background: rgb(238, 205, 205);
-  width: 30%
-}
-
-.three-category .orange-col{
-  background: rgb(245, 226, 205);
-  width: 20%
-}
-
-.three-category .green-col{
-  background: rgb(220, 233, 213);
-  width:50%
+.donut-chart{
+  width: 90%;
 }
 
 ul{
