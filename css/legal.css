@@ -27,6 +27,26 @@ iframe{
   margin-top: 10px;
 }
 
+.key-table{
+  border: 1px solid black
+
+}
+
+.map-key-0{
+  background-color: #D3D3D3
+}
+
+.map-key-1{
+  background-color: #A0ACEA
+}
+
+.map-key-2{
+  background-color: #425099
+}
+
+.map-key-3{
+  background-color: #040B30
+}
 .icon-background{
   background: #fea16b;
   border-radius: 50%;
