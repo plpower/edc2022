@@ -37,25 +37,48 @@ iframe{
   margin-top: 10px;
 }
 
-.key-table{
-  border: 1px solid black
+table {
+  border-collapse: separate;
+  border-spacing: 10px 17px;
+}
 
+th {
+  font-size: 15px;
+}
+
+.key-table{
+  border: 1px solid white;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.map-key-title{
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .map-key-0{
-  background-color: #D3D3D3
+  background-color: #D3D3D3;
+  margin-left: 10px;
+  margin-right: 10px;
 }
 
 .map-key-1{
-  background-color: #A0ACEA
+  background-color: #A0ACEA;
+  margin-left: 10px;
+  margin-right: 10px;
 }
 
 .map-key-2{
-  background-color: #425099
+  background-color: #425099;
+  margin-left: 10px;
+  margin-right: 10px;
 }
 
 .map-key-3{
-  background-color: #040B30
+  background-color: #040B30;
+  margin-left: 10px;
+  margin-right: 10px;
 }
 
 .icon-background{
